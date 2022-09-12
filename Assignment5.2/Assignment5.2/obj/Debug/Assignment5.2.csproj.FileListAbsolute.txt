@@ -1,0 +1,16 @@
+C:\Users\laure\Desktop\mssa\MSSA Assignements\Assignment 5.2\Assignment5.2\Assignment5.2\bin\Debug\Assignment5.2.exe.config
+C:\Users\laure\Desktop\mssa\MSSA Assignements\Assignment 5.2\Assignment5.2\Assignment5.2\bin\Debug\Assignment5.2.exe
+C:\Users\laure\Desktop\mssa\MSSA Assignements\Assignment 5.2\Assignment5.2\Assignment5.2\bin\Debug\Assignment5.2.pdb
+C:\Users\laure\Desktop\mssa\MSSA Assignements\Assignment 5.2\Assignment5.2\Assignment5.2\obj\Debug\Assignment5.2.csproj.AssemblyReference.cache
+C:\Users\laure\Desktop\mssa\MSSA Assignements\Assignment 5.2\Assignment5.2\Assignment5.2\obj\Debug\Assignment5.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\laure\Desktop\mssa\MSSA Assignements\Assignment 5.2\Assignment5.2\Assignment5.2\obj\Debug\MainWindow.g.cs
+C:\Users\laure\Desktop\mssa\MSSA Assignements\Assignment 5.2\Assignment5.2\Assignment5.2\obj\Debug\App.g.cs
+C:\Users\laure\Desktop\mssa\MSSA Assignements\Assignment 5.2\Assignment5.2\Assignment5.2\obj\Debug\Assignment5.2_MarkupCompile.cache
+C:\Users\laure\Desktop\mssa\MSSA Assignements\Assignment 5.2\Assignment5.2\Assignment5.2\obj\Debug\Assignment5.2_MarkupCompile.lref
+C:\Users\laure\Desktop\mssa\MSSA Assignements\Assignment 5.2\Assignment5.2\Assignment5.2\obj\Debug\MainWindow.baml
+C:\Users\laure\Desktop\mssa\MSSA Assignements\Assignment 5.2\Assignment5.2\Assignment5.2\obj\Debug\Assignment5.2.g.resources
+C:\Users\laure\Desktop\mssa\MSSA Assignements\Assignment 5.2\Assignment5.2\Assignment5.2\obj\Debug\Assignment5._2.Properties.Resources.resources
+C:\Users\laure\Desktop\mssa\MSSA Assignements\Assignment 5.2\Assignment5.2\Assignment5.2\obj\Debug\Assignment5.2.csproj.GenerateResource.cache
+C:\Users\laure\Desktop\mssa\MSSA Assignements\Assignment 5.2\Assignment5.2\Assignment5.2\obj\Debug\Assignment5.2.csproj.CoreCompileInputs.cache
+C:\Users\laure\Desktop\mssa\MSSA Assignements\Assignment 5.2\Assignment5.2\Assignment5.2\obj\Debug\Assignment5.2.exe
+C:\Users\laure\Desktop\mssa\MSSA Assignements\Assignment 5.2\Assignment5.2\Assignment5.2\obj\Debug\Assignment5.2.pdb
